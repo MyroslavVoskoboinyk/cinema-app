@@ -17,7 +17,6 @@ This application is a cinema reservation system simulator based on Spring and Hi
 - Hibernate
 - Spring MVC
 - Spring Security
-- Hibernate 
 - Tomcat 
 - MySQL
 
